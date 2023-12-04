@@ -1,2 +1,2 @@
 import streamlit
-streamlit.little('My Parensts New Healthy Diner')
+streamlit.little("My Parensts New Healthy Diner")
