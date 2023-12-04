@@ -1,2 +1,3 @@
-import streamlit
-streamlit.little(" My Parensts New Healthy Diner ")
+import streamlit as st
+
+st.title("My Parents' New Healthy Diner")
